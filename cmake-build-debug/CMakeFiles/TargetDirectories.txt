@@ -1,0 +1,3 @@
+/tmp/tmp.nVPi5kO0KN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.nVPi5kO0KN/cmake-build-debug/CMakeFiles/nek_c.dir
+/tmp/tmp.nVPi5kO0KN/cmake-build-debug/CMakeFiles/edit_cache.dir

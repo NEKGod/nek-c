@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/nek_c.dir/main.c.o -o nek_c 
