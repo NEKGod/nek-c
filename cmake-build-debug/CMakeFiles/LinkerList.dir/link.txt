@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/LinkerList.dir/LinkerList/LinkedList/test.c.o -o LinkerList 

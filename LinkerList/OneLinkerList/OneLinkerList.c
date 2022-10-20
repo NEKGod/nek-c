@@ -27,8 +27,6 @@ MyLinkedList* myLinkedListCreate() {
     return linkedList;
 }
 
-
-
 int myLinkedListGet(MyLinkedList* obj, int index) {
     if (index < 0 || index >= obj->size) {
         return -1;
